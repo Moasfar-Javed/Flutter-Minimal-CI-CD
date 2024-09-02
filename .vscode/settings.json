@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-action.json": "file:///Users/moasfar/Documents/Personal/deployments_example/.github/workflow/deploy.yml"
+  },
+  "dart.flutterSdkPath": ".fvm/versions/3.16.7"
+}
